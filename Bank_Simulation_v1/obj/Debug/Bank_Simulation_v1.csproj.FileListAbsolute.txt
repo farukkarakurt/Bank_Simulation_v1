@@ -10,3 +10,4 @@ C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank
 C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.csproj.CoreCompileInputs.cache
 C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.exe
 C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.pdb
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.Form4.resources
