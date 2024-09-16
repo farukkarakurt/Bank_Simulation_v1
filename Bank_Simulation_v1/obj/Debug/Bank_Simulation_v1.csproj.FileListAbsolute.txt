@@ -1,0 +1,12 @@
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\bin\Debug\Bank_Simulation_v1.exe.config
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\bin\Debug\Bank_Simulation_v1.exe
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\bin\Debug\Bank_Simulation_v1.pdb
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.Form1.resources
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.Form2.resources
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.Form3.resources
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.Properties.Resources.resources
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.csproj.GenerateResource.cache
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.exe
+C:\Users\faruk\source\repos\Bank_Simulation_v1\Bank_Simulation_v1\obj\Debug\Bank_Simulation_v1.pdb
